@@ -9,7 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://github.com/layse-dev/qr-code-component-main.git](https://github.com/layse-dev/qr-code-component-main.git)
+- Solution URL: [https://layse-dev.github.io/qr-code-component-main/](https://layse-dev.github.io/qr-code-component-main/)
 
 ## My process
 
